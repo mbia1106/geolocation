@@ -1,2 +1,2 @@
-# geolocation
-this project is developed in java for first part of the geolocation of objects lost in the airports
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
